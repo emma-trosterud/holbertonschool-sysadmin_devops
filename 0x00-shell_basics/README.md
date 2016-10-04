@@ -1,0 +1,1 @@
+Print the path of the working directory
